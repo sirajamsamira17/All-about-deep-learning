@@ -1,4 +1,4 @@
-Datasets used in this project:Iris,Boston House Prices and Sonar dataset
+Datasets used in this project:Iris,Boston House Prices and Sonar dataset.\\
 This project covered:
 1.How to Load dataset,Define model,compile,fit and evaluate the model.
 
